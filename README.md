@@ -20,7 +20,7 @@
 Run the following command in Colab to install dependencies:
 
 ```python
-!pip install flask flask-ngrok openai-whisper transformers torchaudio
+!pip install flask ngrok flask-ngrok openai-whisper transformers torchaudio
 ```
 
 ---
