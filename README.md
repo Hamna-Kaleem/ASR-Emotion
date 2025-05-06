@@ -50,7 +50,6 @@ Run the following command in Colab to install dependencies:
 
 ---
 
----
 
 ## 🧪 Sample Output
 
