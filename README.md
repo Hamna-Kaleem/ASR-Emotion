@@ -1,5 +1,3 @@
-# ASR-Emotion
-Audio Transcription and Emotion Detection
 
 
 # 📓 WhisperNote: Flask App for Audio Transcription and Emotion Detection
@@ -45,19 +43,12 @@ Run the following command in Colab to install dependencies:
 
 ## ▶️ How to Run in Google Colab
 
-1. Upload the [WhisperNote\_Colab\_Flask\_App.ipynb](WhisperNote_Colab_Flask_App.ipynb) notebook to your Google Drive.
+1. Upload the notebook to your Google Drive.
 2. Open in Google Colab.
 3. Run all cells.
 4. Ngrok will give you a public link where the app will be live.
 
 ---
-
-## 📁 Project Structure
-
-```
-WhisperNote_Colab_Flask_App.ipynb   # Main notebook
-/uploads                             # Temporary folder for uploaded files
-```
 
 ---
 
