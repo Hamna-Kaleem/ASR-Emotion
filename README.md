@@ -43,7 +43,7 @@ I’m really excited to work on this project!
 Emotion: joy (Confidence: 0.98)
 ```
 
-## 😎 Why I Made This
+## Why I Made This
 
 Honestly? I just wanted to build something chill and creative with Whisper + Gradio. No servers, no stress, just good vibes and Python.
 
