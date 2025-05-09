@@ -53,6 +53,6 @@ Honestly? I just wanted to build something chill and creative with Whisper + Gra
 * Multilingual support 🌍
 * Live mic input 🎤
 
-## 🧑‍💻 Built With Love By
+## 🧑‍💻 Built With Love
 
-\[Your Name] – drop a star ⭐ if you vibed with it!
+Drop a star ⭐ if you vibed with it!
