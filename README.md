@@ -1,6 +1,6 @@
 # 🎙️ WhisperNote : Vibe-Detecting Voice App
 
-> I was just messing around and thought — hey, what if I could hear what I *feel*? So, I made this little app. 💡
+I was just messing around and thought — hey, what if I could hear what I *feel*? So, I made this little app. 💡
 
 **WhisperNote** is a playful mini app built with Python, OpenAI Whisper, and GradIO. Upload your voice note — it’ll transcribe your speech and tell you the *vibe* (emotion) you’re giving off.
 
